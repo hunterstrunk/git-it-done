@@ -1,1 +1,1 @@
-# gjit-it-done
+# git-it-done
